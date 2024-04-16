@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waleed</h1>
 <h3 align="center">A passionate software developer from Lebanon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedhussein4&label=Profile%20views&color=0e75b6&style=flat" alt="waleedhussein4" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waleed-hussein-14339459/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed-hussein-14339459/" height="30" width="40" /></a>
